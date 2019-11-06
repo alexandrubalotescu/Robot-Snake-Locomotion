@@ -1,0 +1,20 @@
+MuJoCo Pro Personal license activation key, number 68667, type 6.
+
+Issued to Alexandru Constantin Balotescu <alexandru.balotescu@tum.de>.
+
+Expires October 19, 2020.
+
+This file activates MuJoCo Pro on a single computer with id:
+OSX_240LESSDPPPS8AM_C02230140C4JPD21A101
+
+Do not modify this file. Its entire content, including the
+plain text section, is used by the activation manager.
+
+7ac3d8fa6b7c634d466a12b5f29f9990236ff0f11822e33a0e6d7673c6e716b3
+65b22908739bb221e93232a2a303617e8845a631f9fa111dfcc4c8269f8dc271
+486f28a5821cc1db50f7cfdc4e786d7eb5422dd9b149c15739fcc2385eacde8e
+db7da4ff7311c81114c1a1847e765f58f2269f58c666fe09414aee77c0a76f21
+9121afdd116b91cdaf3f1a6c94b9f8ddc882f6b5a6f20f8dc77c48ce01efec51
+c7dc17393ce864c12804335ccd4f877135717f39f410bc58c084f412a0cd3813
+9054ff1ed1bc0b43f2db7a1682313d10a6074ee3c7dc237808614638490e392f
+a6402981510aa2af1a76767a43784990c051d0dc1eab8185525a640278f3c1de
